@@ -1,0 +1,105 @@
+body{
+    margin: 0;}
+
+    section{
+        width: 1120px;
+    }
+  
+.first-section{
+    height: 1070px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 50px;
+}
+.name-heighlight{
+    color: rgb(137, 54, 231);
+}
+.div1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 30px ;
+    margin-top: 250px;
+
+    
+}
+.div1 img{
+    width: 120%;
+}
+.facebook-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg , blue,rgb(90, 105, 235));
+    padding: 5px 10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.second-section{
+    height: 875px;
+    background-image: url(images/biography-bg.png);
+}
+.div2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 30px ;
+    margin-top: 250px;
+}
+.div2 img{
+    width: 100%;
+}
+.youtube-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg , rgb(206, 24, 17),rgb(221, 107, 98));
+    padding: 5px 10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.third-section{
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+.text-align{
+    margin-top: 150px;
+    text-align: center;
+}
+.same{
+    margin: 30px;
+    float: left;
+    border: 1px solid ;
+    border-color:navajowhite;
+    height: 300px;
+    padding-top: 65px;
+
+   
+}
+.same img{
+    width: 300px;
+}
+.forth-section{
+    height: 1000px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    
+}
+footer{
+    text-align: center;
+}
+.md{
+    background-color: chocolate;
+    margin: 0px 400px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.mk{
+    font-weight: 700;
+    color: rgb(240, 237, 237);
+}
